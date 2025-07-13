@@ -8,7 +8,7 @@
 
 I'm a passionate student with a strong interest in software engineering, particularly in web development. I love building interactive and responsive websites while continuously learning new technologies to enhance my skills.
 
-```javascript
+javascript
 const aboutMe = {
   pronouns: "he/him" || "she/her",
   education: "Student at [Your School/University]",
