@@ -1,21 +1,4 @@
-# 👋 Hello, I'm Ario Zulkaesi Nubli 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&width=435&lines=Student+%7C+Web+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate student with a strong interest in software engineering, particularly in web development. I love building interactive and responsive websites while continuously learning new technologies to enhance my skills.
-
-javascript
-const aboutMe = {
-  pronouns: "he/him" || "she/her",
-  education: "Student at [Your School/University]",
-  interests: ["Web Development", "UI/UX Design", "Open Source"],
-  currentFocus: "Learning React and Node.js",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
 
 # 👋 Hello, I'm Ario Zulkaesi Nubli 
 
