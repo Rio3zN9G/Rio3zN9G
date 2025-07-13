@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm Ario Zulkaesi Nubli 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&width=435&lines=Student+%7C+Web+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
