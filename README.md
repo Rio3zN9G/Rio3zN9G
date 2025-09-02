@@ -26,12 +26,12 @@ const aboutMe = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://icons.getbootstrap.com/assets/img/icons-hero@2x.png)
 
 ### Backend Development
+![PHP](https://tse2.mm.bing.net/th/id/OIP.5q7yOT4YVdAfvy6gxBGlDQAAAA?pid=ImgDet&w=181&h=181&c=7&dpr=1,3&o=7&rm=3)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -46,14 +46,12 @@ const aboutMe = {
 </div>
 
 ## 🌱 Currently Learning
-- Advanced React Patterns
 - Next.JS
 - TypeScript
-- GraphQL
   
 
 ## 📫 How to Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azn6695@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryont52@gmail.com)
 
 ## 🎯 Goals for 2024
 - [ ] Contribute to open source projects
@@ -62,5 +60,5 @@ const aboutMe = {
 - [ ] Improve problem-solving skills
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusernam" /> 
 </div>
